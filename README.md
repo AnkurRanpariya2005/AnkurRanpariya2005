@@ -30,8 +30,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkurRanpariya2005&theme=radical" alt="GitHub Streak Stats" />
 </p>
-  </a>
-</p>
+
 
 
 ---
