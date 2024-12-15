@@ -24,7 +24,7 @@
 - **Frontend**: HTML5, CSS3, Tailwind, Bootstrap  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkurRanpariya2005&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkurRanpariya2005&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
