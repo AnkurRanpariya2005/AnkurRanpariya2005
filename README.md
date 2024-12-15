@@ -48,8 +48,9 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AnkurRanpariya2005&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AnkurRanpariya2005&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
