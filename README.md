@@ -28,8 +28,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkurRanpariya2005&theme=radical" alt="GitHub Streak Stats" />
+  <a href="https://github.com/yourusername">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnkurRanpariya2005&theme=dracula" alt="GitHub Contribution Graph" />
+  </a>
 </p>
+
 
 ---
 
