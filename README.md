@@ -38,9 +38,9 @@
 
 ### 🔗 **Connect with Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="mailto:your_email@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/inAnkurRanpariya2005/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+
+  <a href="mailto:patelankurv2005@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 ---
@@ -50,9 +50,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AnkurRanpariya2005&theme=radical" alt="Trophy" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/calendar?username=AnkurRanpariya2005&theme=dracula" alt="GitHub Contribution Calendar" />
-</p>
 
 
 
