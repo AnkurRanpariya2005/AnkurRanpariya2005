@@ -51,8 +51,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkurRanpariya2005&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/AnkurRanpariya2005">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnkurRanpariya2005&theme=dracula" alt="GitHub Contribution Graph" />
+  </a>
 </p>
+
 
 
 
