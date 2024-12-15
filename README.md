@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Programmer with Expertise in Java, Spring Boot, React, Python, and the MERN Stack!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+My+GitHub+Profile!;Passionate+about+Coding+%26+Learning;Building+Cool+Projects+with+Java%2C+React;Open+to+Collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=540&lines=Welcome+to+My+GitHub+Profile!;Passionate+about+Coding+%26+Learning;Building+Cool+Projects+with+Java%2C+React;Open+to+Collaboration!" alt="Typing SVG" />
 </p>
 
 ---
