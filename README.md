@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Spring Boot logo"  />
+  <img src="https://www.datocms-assets.com/33413/1607702349-spring-boot-logo-112009353335.png?auto=format&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=992&w=1984" height="30" alt="Spring Boot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
