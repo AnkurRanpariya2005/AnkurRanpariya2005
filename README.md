@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning **Advanced System Design**
 - 💼 Open to Freelance or Full-Time Opportunities
 - 💡 I love solving challenging problems and working on scalable projects
-- 🔭 I’m working on: [Gambling Game](#)
-- 📫 How to reach me: **[your_email@example.com](mailto:your_email@example.com)**
+- 🔭 I’m working on: [Social Media App](#)
+- 📫 How to reach me: **[patelankurv2005@gmail.com](mailto:patelankurv2005@gmail.com)**
 
 ---
 
