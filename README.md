@@ -51,10 +51,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AnkurRanpariya2005">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnkurRanpariya2005&theme=dracula" alt="GitHub Contribution Graph" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/calendar?username=AnkurRanpariya2005&theme=dracula" alt="GitHub Contribution Calendar" />
 </p>
+
 
 
 
