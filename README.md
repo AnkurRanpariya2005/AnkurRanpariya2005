@@ -38,7 +38,7 @@
 
 ### 🔗 **Connect with Me**
 <p align="center">
-  <a href="https://www.linkedin.com/inAnkurRanpariya2005/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ankurranpariya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="mailto:patelankurv2005@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
 
